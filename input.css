@@ -67,8 +67,6 @@ input:invalid{
 .field{
     border: 1px;
     width: 60rem;
-    padding-right:0px;
-    border-radius: ;
     border-left-width: 1px;
     color: white;
 }
